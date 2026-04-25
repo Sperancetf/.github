@@ -3,8 +3,6 @@
 > **Sperance** es la evolución técnica y el sucesor oficial de Leilos. Un ecosistema diseñado para la estabilidad, el rendimiento y la comunidad.
 
 ---
-
-## 🛰️ Network Resources / Recursos
 Toda nuestra infraestructura de archivos y contenido visual se gestiona a través de nuestro CDN privado.
 
 * **Web Oficial:** [sperance.crisu.qzz.io](https://sperance.crisu.qzz.io)
@@ -36,7 +34,7 @@ Desarrollado con ❤️ por **Cris ✦** y el equipo de Sperance.
 ---
 
 <p align="center">
-  <img src="https://cdn.crisu.qzz.io/sperance/assetes/logo/png/Sperance_Normal.png" width="80">
+  <img src="https://cdn.crisu.qzz.io/sperance/assetes/logo/jpg/Sperance_Normal.jpg" width="80">
   <br>
   <b>Sperance Project © 2026</b>
 </p>
