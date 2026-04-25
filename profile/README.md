@@ -1,6 +1,6 @@
 # <img src="https://cdn.crisu.qzz.io/sperance/assetes/logo/jpg/Sperance_Normal.jpg" width="35" height="35"> Sperance Project
 
-> **Sperance** es la evolución técnica y el sucesor oficial de Leilos. Un ecosistema diseñado para la estabilidad, el rendimiento y la comunidad.
+> **Sperance** es la evolución técnica y el sucesor oficial de Leilos.
 
 ## 📜 Community Guidelines / Reglamento
 
