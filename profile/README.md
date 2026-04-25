@@ -1,6 +1,5 @@
-# <img src="https://cdn.crisu.qzz.io/sperance/logo.png" width="32" height="32"> Sperance Project
+# <img src="https://cdn.crisu.qzz.io/sperance/assetes/logo/jpg/Sperance_Normal.jpg" width="32" height="32"> Sperance Project
 
-![Banner](https://cdn.crisu.qzz.io/sperance/assetes/logo/jpg/Sperance_Normal.jpg)
 
 > **Sperance** el sucesor de Leilos.
 
