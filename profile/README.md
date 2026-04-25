@@ -34,7 +34,7 @@ Desarrollado con ❤️ por **Cris ✦** y el equipo de Sperance.
 ---
 
 <p align="center">
-  <img src="https://cdn.crisu.qzz.io/sperance/assetes/logo/jpg/Sperance_Normal.jpg" width="35" height="80">
+  <img src="https://cdn.crisu.qzz.io/sperance/assetes/logo/jpg/Sperance_Normal.jpg" width="80" height="80">
   <br>
   <b>Sperance Project © 2026</b>
 </p>
